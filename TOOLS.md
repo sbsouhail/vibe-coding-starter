@@ -21,7 +21,8 @@ Free plans checked October–November 2026. They change often: check the limits 
 3. Watch it build: a full app with a live preview. The Gemini API key is set up for you.
 4. Refine: ask for changes in the chat, or highlight a part of the screen and say what to change.
 5. Something broken? Ask: "Fix any build issues with the current code."
-6. Save and share: export to GitHub or download a ZIP. Share the app link only with the jury, because shared use counts against your own limits.
+6. Save: open **Settings › GitHub** to create or link a repo (two-way sync), or download a ZIP.
+7. Share: use the **Share** button. Shared use counts against your own limits, and people you share with can see and fork your code.
 
 ## Making free credits last
 
