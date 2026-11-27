@@ -20,7 +20,7 @@ make a study app
 Clear (a usable first version in one try):
 
 ```
-Build a web app for university students. They paste their course notes, and the AI creates a 10-question multiple-choice quiz with short explanations. Show the score at the end. Clean, friendly design, in French and English.
+Build a web app called StudyBuddy for university students. They paste their course notes, and the AI creates a 10-question multiple-choice quiz with short explanations. Show the score at the end. Clean, friendly design, in French and English.
 ```
 
 ### Your turn: fill in the blanks
