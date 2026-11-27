@@ -7,7 +7,7 @@ Everything used in the live demo, so you can repeat it yourself.
 ## 1. The prompt (paste into Google AI Studio › Build)
 
 ```
-Build a web app called StudyBuddy for university students. They paste their course notes, and the AI creates a 10-question multiple-choice quiz with short explanations. Show the score at the end. Clean, friendly design, in French and English.
+Build a web app called StudyBuddy for university students. They paste their course notes, and the AI creates a 10-question multiple-choice quiz using only facts from the notes, with a short explanation for each answer. Show the score at the end. Clean, friendly, mobile-friendly design, in French and English.
 ```
 
 ## 2. Sample course notes to paste into the app
