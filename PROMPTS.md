@@ -36,7 +36,7 @@ Build a [web / mobile] app for [WHO]. They [what they do in the app], and the AI
 | An error appears | `Here's the error: [paste it]. Fix only this.` |
 | You don't understand a part | `Explain this part of the code in simple words.` |
 | The AI changes too much | `Only fix [one thing]. Change nothing else.` |
-| A change made things worse | `Undo the last change and return to the working version.` |
+| A change made things worse | Restore the last working version from the tool's history or from GitHub, then retry in smaller steps. |
 | The build fails (AI Studio) | `Fix any build issues with the current code.` |
 
 The formula works beyond apps too: emails, reports, study plans. Any time you ask an AI for something.
