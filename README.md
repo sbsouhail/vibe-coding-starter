@@ -2,18 +2,18 @@
 
 🇫🇷 [Version française](README.fr.md)
 
-Everything you need to build an AI-powered app for today's challenge, for free.
-No university email needed: a personal Gmail and a GitHub account are enough.
+Everything you need to build an AI-powered app for the challenge, for free.
+No bank card and no university email needed: a personal Gmail and a GitHub account are enough.
 
-## Your first hour
+## Your first steps
 
 - [ ] Open [Google AI Studio](https://aistudio.google.com) with your personal Gmail.
 - [ ] Every teammate creates a [GitHub](https://github.com) account; one person creates a shared team repo.
 - [ ] Write your idea in one paragraph: the problem, the users, what the AI does.
 - [ ] Turn it into a prompt with WHO · WHAT · HOW · LOOK ([PROMPTS.md](PROMPTS.md)).
-- [ ] Build version 1, then test, refine and push to GitHub.
+- [ ] At home: build version 1, then test, refine and push to GitHub.
 
-## Recommended stack for today
+## Recommended stack
 
 1. **Plan** in a free chatbot (Claude, Gemini or ChatGPT).
 2. **Build** in Google AI Studio (when AI is the core feature) or Lovable (when you need logins and saved data).

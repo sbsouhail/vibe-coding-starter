@@ -3,17 +3,17 @@
 🇬🇧 [English version](README.md)
 
 Tout ce qu'il faut pour construire une application basée sur l'IA pendant le challenge, gratuitement.
-Pas besoin d'e-mail universitaire : un compte Gmail personnel et un compte GitHub suffisent.
+Pas besoin de carte bancaire ni d'e-mail universitaire : un compte Gmail personnel et un compte GitHub suffisent.
 
-## Votre première heure
+## Vos premières étapes
 
 - [ ] Ouvrez [Google AI Studio](https://aistudio.google.com) avec votre Gmail personnel.
 - [ ] Chaque membre crée un compte [GitHub](https://github.com) ; une personne crée un dépôt partagé pour l'équipe.
 - [ ] Décrivez votre idée en un paragraphe : le problème, les utilisateurs, ce que fait l'IA.
 - [ ] Transformez-la en prompt avec QUI · QUOI · COMMENT · STYLE ([PROMPTS.md](PROMPTS.md), en anglais).
-- [ ] Construisez la version 1, puis testez, améliorez et poussez sur GitHub.
+- [ ] À la maison : construisez la version 1, puis testez, améliorez et poussez sur GitHub.
 
-## La combinaison recommandée pour aujourd'hui
+## La combinaison recommandée
 
 1. **Planifier** avec un chatbot gratuit (Claude, Gemini ou ChatGPT).
 2. **Construire** avec Google AI Studio (quand l'IA est la fonction principale) ou Lovable (quand il faut des comptes utilisateurs et des données enregistrées).

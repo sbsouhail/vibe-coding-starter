@@ -21,4 +21,4 @@ Pick an idea, then make it yours: change the users, the problem or the twist.
 - **Who** exactly uses it, and would they really use it?
 - **What** problem does it solve that isn't solved today?
 - **Where** is the AI essential, not just decoration?
-- **Can** you show a working version by the end of the day?
+- **Can** your team build a working version before the challenge deadline?
