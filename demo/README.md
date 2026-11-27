@@ -2,6 +2,8 @@
 
 Everything used in the live demo, so you can repeat it yourself.
 
+**The finished app's code:** [sbsouhail/studybuddy-demo](https://github.com/sbsouhail/studybuddy-demo). Fork it, or import it into Google AI Studio (+ menu › Import from GitHub) or Bolt to remix it. You'll need your own Gemini API key outside AI Studio.
+
 ## 1. The prompt (paste into Google AI Studio › Build)
 
 ```

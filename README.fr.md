@@ -32,6 +32,7 @@ Pas besoin d'e-mail universitaire : un compte Gmail personnel et un compte GitHu
 | Fichier | À quoi il sert |
 | --- | --- |
 | [demo/](demo/) | La démo en direct : prompt, notes d'exemple et prompts d'amélioration |
+| [studybuddy-demo](https://github.com/sbsouhail/studybuddy-demo) | Le code de l'application de démo, prêt à être copié et modifié |
 | [IDEAS.md](IDEAS.md) | Dix idées de départ si l'équipe est bloquée |
 | [TOOLS.md](TOOLS.md) | Tous les outils gratuits, leurs limites, et Google AI Studio pas à pas |
 | [PROMPTS.md](PROMPTS.md) | La formule de prompt, un exemple, et des prompts en cas de bug |
