@@ -36,6 +36,7 @@ Pas besoin d'e-mail universitaire : un compte Gmail personnel et un compte GitHu
 | [IDEAS.md](IDEAS.md) | Dix idées de départ si l'équipe est bloquée |
 | [TOOLS.md](TOOLS.md) | Tous les outils gratuits, leurs limites, et Google AI Studio pas à pas |
 | [PROMPTS.md](PROMPTS.md) | La formule de prompt, un exemple, et des prompts en cas de bug |
+| [KEYS.md](KEYS.md) | Votre clé API Gemini gratuite : l'obtenir, l'utiliser en local ou en ligne, la protéger |
 | [SWITCHING.md](SWITCHING.md) | Passer d'un outil à l'autre sans rien perdre |
 | [HANDOVER.md](HANDOVER.md) | Modèle de note de passation à copier dans votre dépôt |
 | [CURSOR.md](CURSOR.md) | Aller plus loin avec un vrai éditeur de code |

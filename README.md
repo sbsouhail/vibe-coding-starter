@@ -29,6 +29,7 @@ No university email needed: a personal Gmail and a GitHub account are enough.
 | [IDEAS.md](IDEAS.md) | Ten starter ideas if your team is stuck |
 | [TOOLS.md](TOOLS.md) | Every free tool, its free limits, and Google AI Studio step by step |
 | [PROMPTS.md](PROMPTS.md) | The prompt formula, an example, and prompts for when things break |
+| [KEYS.md](KEYS.md) | Your free Gemini API key: get it, use it locally or when hosting, keep it safe |
 | [SWITCHING.md](SWITCHING.md) | Moving your project between tools without losing work |
 | [HANDOVER.md](HANDOVER.md) | Template to copy into your own repo |
 | [CURSOR.md](CURSOR.md) | Level up in a real code editor (for teams who code) |
