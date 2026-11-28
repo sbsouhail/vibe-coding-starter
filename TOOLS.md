@@ -23,6 +23,7 @@ Free plans checked October–November 2026. They change often: check the limits 
 5. Something broken? Ask: "Fix any build issues with the current code."
 6. Save: open **Settings › GitHub** to create or link a repo (two-way sync), or download a ZIP.
 7. Share: use the **Share** button. Shared use counts against your own limits, and people you share with can see and fork your code.
+8. Publish (optional): **Publish** puts your app online on Google Cloud Run. Costs can apply depending on usage, and the published app uses **your** API key for every visitor. For the challenge, **Share** with the jury is enough. Only publish if you understand the costs, and never post the link publicly.
 
 ## Making free credits last
 
